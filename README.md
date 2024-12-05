@@ -22,6 +22,9 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=Blender&labelColor=0D1117&textColor=0D1117)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&labelColor=000000&textColor=000000)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&labelColor=000000&textColor=ffffff)
 
 
 ### Tools:
@@ -31,18 +34,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
-### Other Knowledge:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-### Studying in this moment:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
